@@ -2,6 +2,9 @@
 
 A terrible library to convert a JS object to XML and wrap it in a SOAP envelope
 
+Credits where it's due..
+This fork contains several changes among which is a header soap change.
+
 ## Usage
 
 Standalone conversion of a javascript object to XML:
