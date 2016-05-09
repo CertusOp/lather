@@ -1,6 +1,6 @@
 {
   "name": "lather",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "A terrible library to convert a JS object to XML and wrap it in a SOAP envelope",
   "author": "Jason Walsh <jason.walsh@colonyamerican.com>",
   "dependencies": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/colonyamerican/lather.git"
+    "url": "https://github.com/emirdev/lather.git"
   },
   "main": "./index.js",
   "directories": {
